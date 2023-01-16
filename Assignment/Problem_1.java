@@ -9,7 +9,7 @@
 
 
 
-1)
+//1)
 import java.util.*; 
 class HelloWorld {
     public static void main(String[] args) {
@@ -29,7 +29,7 @@ System.out.println(sum);
 
 
 
-2)
+//2)
 import java.util.*; 
 class HelloWorld {
     public static void main(String[] args) {
@@ -51,7 +51,7 @@ System.out.println("Sum= "+sum);
 
 
 
-3)
+//3)
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
 
